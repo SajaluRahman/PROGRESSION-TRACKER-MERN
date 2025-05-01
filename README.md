@@ -18,7 +18,7 @@ The backend for Progress Tracker is a Node.js application built with Express.js 
 - **dotenv**: Environment variable management.
 - **Nodemon**: Development hot reloading.
 
-- 
+
 ## Prerequisites
 - **Node.js** (v16 or higher): [Download](https://nodejs.org/)
 - **MongoDB**:
@@ -30,14 +30,14 @@ The backend for Progress Tracker is a Node.js application built with Express.js 
 ## Setup Instructions
 
 ### 1. Clone the Repository
--Clone the Progress Tracker repository to your local machine:git clone (the code for cloning)
+- **Clone the Progress Tracker repository to your local machine**: git clone (the code for cloning)
 
--Navigate to the Backend directory: cd (file name)
+- **Navigate to the Backend directory**: cd (file name)
 
--Install Dependencies :npm install 
+- **Install Dependencies**: npm install 
 
--Create a .env file in Backend/: PORT=5000,
+- **Create a .env file in Backend/**: PORT=5000,
   MONGO_URL=mongodb+srv://sajalu:RztcJjyQBpNw6Qmj@cluster0.9kluoc0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0,
   JWT_SECRET=hJ4%&Q9jS!f78sdj28fJHFjS*&8dJs8D,
 
--Run the Backend :npm run dev
+- **Run the Backend**: npm run dev
